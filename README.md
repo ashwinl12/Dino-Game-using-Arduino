@@ -1,1 +1,2 @@
 # Dino-Game-using-Arduino
+In this Project I automated the Chrome Dino game using Arduino uno, Servo Motor, 10K Resistor and LDR. The LDR is a light depedent resistor whose resistance increases in dark and decreases when exposed to the light. When dark spot comes in front of the LDR. The LDR sends the signal to Arduino Analog Pin A0 then Arduino gives a single to digital pin 9 to activate the Servo and Press the Spacebar.
