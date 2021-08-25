@@ -1,13 +1,5 @@
 /*
- * Techeonics
- * Automatiic Dino Bot Game With Arduino
- * 
- * https://techeonics.com
- * modified 10 APRIL 2020
-   by Techeonics (Gaurav)
-   
-   Check full Video On Our Youtube Channel
-   https://youtu.be/MFeMhKxUwnE
+ * Automatic Dino Bot Game With Arduino
  */
 
 #include <Servo.h>
